@@ -1,5 +1,4 @@
 /*
-Given an integer x, return true if x is a palindrome, and false otherwise.
 
 This is my second attempt. I will try to revisit to optimize 
 since it is still slow and takes up plenty of space
@@ -10,8 +9,6 @@ Memory 10.48 MB
 Beats 22.42%
 
 */
-
-
 
 class Solution {
 public:
